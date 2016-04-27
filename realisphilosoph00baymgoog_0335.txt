@@ -1,0 +1,48 @@
+oar. ιιι.] nanninus conamina 317 ⁴
+
+quiescens nullam connotationem successivitatis importat. Unde
+dici posset, quod idem realiter instans, otest aliquid corporis
+moti, babet rationem temporis infinitesimi, ut autem coneipitur
+esse aliquid corporis absolute quiescentis, babet rationem ter·
+mini indivisibilis, quo terminatus est motus illius corporis.
+
+Quod attinet ad inflexionem directionis in motu, nihil speci-
+aliter est addendum, nisi, quod quando directio inflectitur, baec
+inflexio fit per angulos infinitesimoa sicut alteratio velocitatis per
+gradus infinitesimos: et sicin onrni motu locali inflexio fit
+secundum quamdam legem continuitatis inviolabilem, de qua
+plura sapienter disserst P. Bosoovicb passim in sua imma
+philosophice nataralia, quam vide (part. Ι. ιι. 13-63).
+
+82. Quaeritur septimo, qnid eit motae amiotus.
+
+Respondeo, esse illum, ouius velocitas singulis momentis con·
+secutivis est diversa. Est autem duplex, idest vel recolemus
+,vel retardatae: et uterque vel amfformiter acceleratus aut retar-
+datus, vel non uniformiter, prout incrementa aut decrementa
+velocitatis sunt singulis tempusculis successivis aequalibue aequa·
+lia vel inaequalia: de quibus omnibus consule mechanicos. Hic
+sufficiat notare generaliter, quod, si post quoddam tempust
+velocitas motus sit a, angmentum velocitatis tempuscula dt
+acquisitum exhibebitur per dc: ai autem vis acceleratrix, quae
+communicat hoc augmentum velocitatis, habeat intensitatem a,
+baeo vis in tempuscnlo dt producet augmentum velocitatis adt 3
+erit ergo do=vdt, id est
+
+da d⁸a
+
+ὦ =o, ⁸⁸udt² -o,
+
+ut facile deducitur ex num. praecedente, differentiando, et elimi-
+nando du. Atque bae sunt fundamentales dynamicae aequationes.
+
+83. Quaeritu'r octavo, utrem quantitas venationis ia motu ea.
+carpat ea camma actionum altercantium neotum.
+
+Respondeo affirmative, si agatur de motu rectilineo, et vox
+summo sumatur algebrioe. Si vero motus deflectat alinea recta, Δ
+quantitas variationis non erit summa actionum, sed pro quantitate
+inflexionis resultabit secundum aliam legem ex ipsis actionibus.
+
+ 
+

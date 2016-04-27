@@ -1,0 +1,47 @@
+164 nrt sonsranrrs corrosas. [aaa. 11.
+
+litur curra, et sic tollitur narratio motus, et ideo tollitur rc-
+gressus. Continuitas autem tendentia viget semper, donec
+habetur ellipsis3 etsie non violatur lex continuitatis. Sed sub·
+lata ellipsi, mutatur problema, et habetur alia lex motus, in qua
+servatur alio modo lex continuitatis, quum nullus fiat transitus
+per saltum, sed per continua incrementa et decrementa procc-
+dator, ut evidens est.
+
+72. Soranorum I. Quaeritur lec motae adllatcrii tuter duc .
+
+elementa attractiva aqualia.
+
+Sint A et B (fig. 1) ista duo elementa, et sint loci A et B
+limites amplitudinis oscillationis 3 et incipiamus computare tem-
+pus t a puncto in quo incipiunt Α ct B appropinquare. Sit a
+velocitas quam habent post quoddam tempus t qnando pervc-
+niunt respective in D et Ε 3 si spatium percursam AD seu ΒΕ
+dicatur a, motus, qui fiet in sequenti instanti dt, faciet percurri
+spatium da 3 eritque da=udt 3 unde
+
+Sit a actio unius elementi in aliud ad unitatem distantiae, etin
+unitate temporis, et ponatur A0=a Vis acceleratrix post
+
+tempus terit
+cdt adt
+
+ᾗῇ, id est W
+
+et quia hacc vis acceleratrix est augmentum infinitesimnm velo-
+
+citatis acquisitae a, exprimetur per dar, vel per d . Ξ 3 ideoque ·
+
+ἀΐω adt ἀΐω v
+W=Wseuffi=w . . . (1)
+
+Ad faciendam integrationem, multiplicetur aequatio hinc et inde
+per da. Veniet
+
+ΜΛ 33(a)⁹=.‚v-.÷0
+dt dt 4(a-c)⁹’ 2dt 4(a-a) ⁶
+
+Notando quod Ξ repraescntat actualem velocitatem motus post
+
+ 
+

@@ -1,0 +1,47 @@
+316 na rursus conclurus, [cnr. ιιι,
+
+formem, sicut sehabet linea curva ad mmam. Atqui in omni
+curva datur pars infinitssima, quac censenda est rectilinea ς ergo
+similiter in omni successione velocitatum datur velocitas dura-
+
+tionis infinitmimm, quse censenda est uniformis. Quod autem ’
+
+infinitesima pars lineae curvae censenda sit rectilinea, facile pro-
+batur. Si enim in quolibet circulo assumatur pars infinitesima
+circumferentiae, ratio radii ad partem infinitesimam circumfe-
+rentiae erit infinita, ut patet: ct ideo sic se babet inlinitcsimum
+circumferentiae ad radium finitum, siout finitum ad infinitum.
+Sicut ergo recta esset linea finita, si describeretur cum radio in·
+finito (ut ostendunt geometrae), ita recta est linea infinitesima,
+quae describitur cum radio finito. llt per boc patet, iure me-
+chanicos, etiam quando agunt dc motu variato, accipere tamquam
+uniformem motum factum in infinitcsimo temporis dt, et spatium
+da eo tempore percursum ut uniformiter percursum3 ct recte
+
+poni aquationem ds
+
+— ξπ,
+
+dt
+
+indicante u velocitatem motus in eo infinitesimo temporis. Si
+enim pro dt, ,quod adhuc babet rationem temporis, poneretur
+instans indivisibile, quod nullam ,babet proportionem cum quavis
+. quantitate temporis, etiam pro ds ponendum esset punctum
+spatii indivisibile, quod nullam proportionem haberet cum qua-
+vis quantitate spatii ; et consequenter concipienda esset velocitas
+u tamquam independens a quavis quantitate spatii et temporis.
+Quod quum fieri nequeat, sequitur admittendum esse motum
+rigorose uniformem saltem pro tempore infinitesimo.
+
+Caeterum pars temporis infinitesima et instans indivisibile,
+licet conceptu prorsus different, ut diceturin tractatu De infinito,
+realiter tamen non videntur differre, nisi ut fluens a quiescente:
+per hoc enim quod instans concipitur fluens, concipitur cum
+habitudine ad aliud instans: brec autem habitudo instantis ad
+instans connotat successionem, quae fundat conceptum tempo·
+ris, quia includit virtualiter duo, id est terminum precedentema
+quo, et terminum subsequentem ad quem: contra vero instans
+
+ 
+
